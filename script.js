@@ -2,7 +2,7 @@ $(() => {
     let dictionary, word;
     function newQuestion() {
         word = dictionary[Math.floor(Math.random() * dictionary.length)];
-        let task = Math.floor(Math.random() * 3);
+        let task = Math.floor(Math.random() * 4);
         $("#display").removeClass();
         $("#field").show().val('');
         if (task == 0) {

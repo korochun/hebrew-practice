@@ -1,7 +1,7 @@
-/* @font-face {
+@font-face {
     font-family: "Gveret Levin AlefAlefAlef";
-    src: url(https://github.com/AlefAlefAlef/gveret-levin/raw/master/font-files/web/GveretLevinAlefAlefAlef-Regular.ttf);
-} */
+    src: url(GveretLevinAlefAlefAlef-Regular.ttf);
+}
 
 html {
     height: 100%;
